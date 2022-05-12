@@ -1,0 +1,3 @@
+note1>  Here in solution of exercise 05 not uses AJAX.
+
+note2>  That way is also fine which is created by me.
